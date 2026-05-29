@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Rishi Solanki
 
-<!--
-**BruceWy4ne/BruceWy4ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Eng Cybersecurity Engineering student at the University of Maryland (Expected Dec 2027).
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cloud Security
+* Application Security
+* Security Engineering
+* Security Automation
+* Network Security
+
+## Featured Projects
+
+### AWS Security Lab
+
+Designed and assessed an AWS environment using VPCs, Security Groups, NACLs, Reachability Analyzer, and Nmap.
+
+### Web Vulnerability Scanner
+
+Python-based security scanner integrating Nuclei, Nikto, and Wapiti with consolidated vulnerability reporting.
+
+## Technical Skills
+
+**Languages:** Python, JavaScript, SQL
+
+**Security:** Nmap, Wireshark, Linux, Web Security, AWS Security
+
+**Cloud:** AWS EC2, VPC, Security Groups, Flow Logs
+
+## Currently Learning
+
+* Cloud Security
+* Application Security
+* Security Automation
+* Threat Detection
+
+## Education
+
+University of Maryland — M.Eng Cybersecurity Engineering (2026–2027)
+
+IIIT Sri City — B.Tech Computer Science (2021–2025)
