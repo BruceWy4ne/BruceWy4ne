@@ -20,6 +20,10 @@ Designed and assessed an AWS environment using VPCs, Security Groups, NACLs, Rea
 
 Python-based security scanner integrating Nuclei, Nikto, and Wapiti with consolidated vulnerability reporting.
 
+### TLS Security Analysis
+
+Captured and analyzed a complete TLS 1.2 handshake using Wireshark, validated X.509 certificate chains, examined ECDHE key exchange, and decrypted HTTPS traffic using SSLKEYLOGFILE.
+
 ## Technical Skills
 
 **Languages:** Python, JavaScript, SQL
