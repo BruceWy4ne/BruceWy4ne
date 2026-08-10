@@ -34,10 +34,11 @@ Captured and analyzed a complete TLS 1.2 handshake using Wireshark, validated X.
 
 ## Currently Learning
 
-* Cloud Security
-* Application Security
-* Security Automation
-* Threat Detection
+- PostgreSQL & Security Databases
+- FastAPI & Security APIs
+- Secure Coding
+- Threat Detection & SIEM
+- CTF / Security Challenges
 
 ## Education
 
